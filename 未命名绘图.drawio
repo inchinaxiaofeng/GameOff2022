@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-17T14:27:04.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="iThYxB_dTXnrROnN_Ab_" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-17T14:27:14.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="jjYIEplwQJ2VXX2D-60Z" version="21.4.0" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="2730.5" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -739,7 +739,7 @@
         <mxCell id="ID7oZF-WjWrz0V3iCZTk-228" value="For JAL &amp;amp; JALR&amp;nbsp;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.5;base=10;" parent="1" vertex="1">
           <mxGeometry x="1670" y="740" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ID7oZF-WjWrz0V3iCZTk-230" value="For L*" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.19;position2=0;base=20;" parent="1" vertex="1">
+        <mxCell id="ID7oZF-WjWrz0V3iCZTk-230" value="For L*" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=10;position=0.19;position2=0;base=20;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1640" y="650" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ID7oZF-WjWrz0V3iCZTk-231" value="For S*" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=15;position=0.42;base=10;" parent="1" vertex="1">
